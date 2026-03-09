@@ -136,3 +136,7 @@ Fork, branch, commit, open a PR. Use Black and isort. Add tests for new features
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+**Do not run this project.** This software is provided for educational and research purposes only. Use at your own risk.
